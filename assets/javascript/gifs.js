@@ -7,7 +7,7 @@ var topics = [
   "Oprah Winfery",
   "Lucille Ball",
   "Rosa Parks",
-  "Barbara Jordan",
+  "Barbara Walters",
   "Hilary Clinton",
   "Condoleeza Rice", 
   "Susan B. Anthony", 
@@ -16,7 +16,7 @@ var topics = [
   "Dorothy Dandride", 
   "Ruth Bader Ginsburg", 
   "Shirley Chisolm", 
-  "Marian Anderson"
+  "Serena Williams"
 ];
 
 function women() {
