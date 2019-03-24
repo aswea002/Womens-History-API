@@ -1,0 +1,56 @@
+body {
+  background-image: url("../images/Finding_womens_history_in_Nov.png");
+}
+
+#gifs-appear-here {
+  align-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+  margin-left: 150%;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  margin-left: 230%;
+  margin-top: -14%;
+  background: #2196f3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#add {
+  text-align: right;
+  color: white;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-right: 100px;
+  font-size: 20pt;
+}
